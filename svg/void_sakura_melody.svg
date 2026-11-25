@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Integrated Background -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#140A1E" />
+  <circle cx="512" cy="512" r="360" fill="#2E123D" fill-opacity="0.6" />
+  <g id="sakura_flower">
+    <g transform="rotate(0, 512, 490)">
+      <path d="M 512,490 C 437,380 452,250 512,230 C 572,250 587,380 512,490 Z" fill="#F472B6" fill-opacity="0.85" stroke="#FDF2F8" stroke-width="4" />
+      <path d="M 512,490 C 477,400 482,310 512,290 C 542,310 547,400 512,490 Z" fill="#EC4899" fill-opacity="0.5" />
+    </g>
+    <g transform="rotate(72, 512, 490)">
+      <path d="M 512,490 C 437,380 452,250 512,230 C 572,250 587,380 512,490 Z" fill="#F472B6" fill-opacity="0.85" stroke="#FDF2F8" stroke-width="4" />
+      <path d="M 512,490 C 477,400 482,310 512,290 C 542,310 547,400 512,490 Z" fill="#EC4899" fill-opacity="0.5" />
+    </g>
+    <g transform="rotate(144, 512, 490)">
+      <path d="M 512,490 C 437,380 452,250 512,230 C 572,250 587,380 512,490 Z" fill="#F472B6" fill-opacity="0.85" stroke="#FDF2F8" stroke-width="4" />
+      <path d="M 512,490 C 477,400 482,310 512,290 C 542,310 547,400 512,490 Z" fill="#EC4899" fill-opacity="0.5" />
+    </g>
+    <g transform="rotate(216, 512, 490)">
+      <path d="M 512,490 C 437,380 452,250 512,230 C 572,250 587,380 512,490 Z" fill="#F472B6" fill-opacity="0.85" stroke="#FDF2F8" stroke-width="4" />
+      <path d="M 512,490 C 477,400 482,310 512,290 C 542,310 547,400 512,490 Z" fill="#EC4899" fill-opacity="0.5" />
+    </g>
+    <g transform="rotate(288, 512, 490)">
+      <path d="M 512,490 C 437,380 452,250 512,230 C 572,250 587,380 512,490 Z" fill="#F472B6" fill-opacity="0.85" stroke="#FDF2F8" stroke-width="4" />
+      <path d="M 512,490 C 477,400 482,310 512,290 C 542,310 547,400 512,490 Z" fill="#EC4899" fill-opacity="0.5" />
+    </g>
+  </g>
+  <circle cx="512" cy="490" r="38" fill="#FDE047" />
+  <circle cx="512" cy="490" r="18" fill="#F59E0B" />
+  <!-- Eighth Musical Note -->
+  <path d="M 525,480 L 525,320 C 560,320 620,335 640,380 L 640,345 C 600,310 550,295 505,295 L 505,480 Z" fill="#FDF2F8" />
+  <circle cx="480" cy="495" r="45" fill="#38BDF8" stroke="#FDF2F8" stroke-width="6" />
+  <ellipse cx="320" cy="740" rx="32" ry="18" fill="#F472B6" transform="rotate(-30, 320, 740)" />
+  <ellipse cx="720" cy="710" rx="26" ry="15" fill="#F472B6" transform="rotate(25, 720, 710)" />
+  <ellipse cx="620" cy="810" rx="22" ry="12" fill="#F472B6" transform="rotate(45, 620, 810)" />
+</svg>
