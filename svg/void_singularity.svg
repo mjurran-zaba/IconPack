@@ -1,69 +1,62 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
-  <defs>
-    <radialGradient id="nebulaGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#2a1452" stop-opacity="0.85"/>
-      <stop offset="50%" stop-color="#160d2e" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#080511" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
   <!-- Integrated Background -->
-  <rect x="0" y="0" width="1024" height="1024" fill="#080511" />
-  <circle cx="512" cy="512" r="480" fill="url(#nebulaGlow)" />
-  <!-- 48 Radial Waveform Bars -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#060C16" />
+  <circle cx="512" cy="512" r="480" fill="#0C1A2E" fill-opacity="0.4" />
+  <!-- 48 Radial Waveform Bars (Cyan -> Frost Teal -> Gold, ZERO PURPLE) -->
   <g>
-    <rect x="504" y="162.8" width="16" height="165.2" rx="6" ry="6" fill="#8b5cf6" transform="rotate(0.0, 512, 512)" />
-    <rect x="504" y="148.7" width="16" height="179.3" rx="6" ry="6" fill="#9759e9" transform="rotate(7.5, 512, 512)" />
-    <rect x="504" y="147.7" width="16" height="180.3" rx="6" ry="6" fill="#a456dd" transform="rotate(15.0, 512, 512)" />
-    <rect x="504" y="153.3" width="16" height="174.7" rx="6" ry="6" fill="#b054d2" transform="rotate(22.5, 512, 512)" />
-    <rect x="504" y="157.3" width="16" height="170.7" rx="6" ry="6" fill="#bb52c7" transform="rotate(30.0, 512, 512)" />
-    <rect x="504" y="153.5" width="16" height="174.5" rx="6" ry="6" fill="#c64fbd" transform="rotate(37.5, 512, 512)" />
-    <rect x="504" y="140.6" width="16" height="187.4" rx="6" ry="6" fill="#cf4db4" transform="rotate(45.0, 512, 512)" />
-    <rect x="504" y="123.0" width="16" height="205.0" rx="6" ry="6" fill="#d74cac" transform="rotate(52.5, 512, 512)" />
-    <rect x="504" y="109.0" width="16" height="219.0" rx="6" ry="6" fill="#df4aa5" transform="rotate(60.0, 512, 512)" />
-    <rect x="504" y="107.1" width="16" height="220.9" rx="6" ry="6" fill="#e449a0" transform="rotate(67.5, 512, 512)" />
-    <rect x="504" y="122.7" width="16" height="205.3" rx="6" ry="6" fill="#e8489c" transform="rotate(75.0, 512, 512)" />
-    <rect x="504" y="155.3" width="16" height="172.7" rx="6" ry="6" fill="#eb4899" transform="rotate(82.5, 512, 512)" />
-    <rect x="504" y="198.2" width="16" height="129.8" rx="6" ry="6" fill="#ec4899" transform="rotate(90.0, 512, 512)" />
-    <rect x="504" y="241.1" width="16" height="86.9" rx="6" ry="6" fill="#eb4899" transform="rotate(97.5, 512, 512)" />
-    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#e8489c" transform="rotate(105.0, 512, 512)" />
-    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#e449a0" transform="rotate(112.5, 512, 512)" />
-    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#df4aa5" transform="rotate(120.0, 512, 512)" />
-    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#d74cac" transform="rotate(127.5, 512, 512)" />
-    <rect x="504" y="255.8" width="16" height="72.2" rx="6" ry="6" fill="#cf4db4" transform="rotate(135.0, 512, 512)" />
-    <rect x="504" y="242.9" width="16" height="85.1" rx="6" ry="6" fill="#c64fbd" transform="rotate(142.5, 512, 512)" />
-    <rect x="504" y="239.1" width="16" height="88.9" rx="6" ry="6" fill="#bb52c7" transform="rotate(150.0, 512, 512)" />
-    <rect x="504" y="243.1" width="16" height="84.9" rx="6" ry="6" fill="#b054d2" transform="rotate(157.5, 512, 512)" />
-    <rect x="504" y="248.7" width="16" height="79.3" rx="6" ry="6" fill="#a456dd" transform="rotate(165.0, 512, 512)" />
-    <rect x="504" y="247.7" width="16" height="80.3" rx="6" ry="6" fill="#9759e9" transform="rotate(172.5, 512, 512)" />
-    <rect x="504" y="233.6" width="16" height="94.4" rx="6" ry="6" fill="#8b5cf5" transform="rotate(180.0, 512, 512)" />
-    <rect x="504" y="204.9" width="16" height="123.1" rx="6" ry="6" fill="#7967f1" transform="rotate(187.5, 512, 512)" />
-    <rect x="504" y="166.1" width="16" height="161.9" rx="6" ry="6" fill="#6873ed" transform="rotate(195.0, 512, 512)" />
-    <rect x="504" y="126.2" width="16" height="201.8" rx="6" ry="6" fill="#587ee8" transform="rotate(202.5, 512, 512)" />
-    <rect x="504" y="96.0" width="16" height="232.0" rx="6" ry="6" fill="#4889e5" transform="rotate(210.0, 512, 512)" />
-    <rect x="504" y="92.0" width="16" height="236.0" rx="6" ry="6" fill="#3a92e1" transform="rotate(217.5, 512, 512)" />
-    <rect x="504" y="92.0" width="16" height="236.0" rx="6" ry="6" fill="#2c9bdd" transform="rotate(225.0, 512, 512)" />
-    <rect x="504" y="113.8" width="16" height="214.2" rx="6" ry="6" fill="#21a3db" transform="rotate(232.5, 512, 512)" />
-    <rect x="504" y="144.4" width="16" height="183.6" rx="6" ry="6" fill="#17a9d8" transform="rotate(240.0, 512, 512)" />
-    <rect x="504" y="172.5" width="16" height="155.5" rx="6" ry="6" fill="#10afd6" transform="rotate(247.5, 512, 512)" />
-    <rect x="504" y="191.1" width="16" height="136.9" rx="6" ry="6" fill="#0ab2d5" transform="rotate(255.0, 512, 512)" />
-    <rect x="504" y="198.4" width="16" height="129.6" rx="6" ry="6" fill="#07b5d4" transform="rotate(262.5, 512, 512)" />
-    <rect x="504" y="198.2" width="16" height="129.8" rx="6" ry="6" fill="#06b6d4" transform="rotate(270.0, 512, 512)" />
-    <rect x="504" y="198.0" width="16" height="130.0" rx="6" ry="6" fill="#07b5d4" transform="rotate(277.5, 512, 512)" />
-    <rect x="504" y="205.3" width="16" height="122.7" rx="6" ry="6" fill="#0ab2d5" transform="rotate(285.0, 512, 512)" />
-    <rect x="504" y="223.9" width="16" height="104.1" rx="6" ry="6" fill="#10afd6" transform="rotate(292.5, 512, 512)" />
-    <rect x="504" y="252.0" width="16" height="76.0" rx="6" ry="6" fill="#17a9d8" transform="rotate(300.0, 512, 512)" />
-    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#21a3db" transform="rotate(307.5, 512, 512)" />
-    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#2c9bdd" transform="rotate(315.0, 512, 512)" />
-    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#3a92e1" transform="rotate(322.5, 512, 512)" />
-    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#4889e5" transform="rotate(330.0, 512, 512)" />
-    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#587ee8" transform="rotate(337.5, 512, 512)" />
-    <rect x="504" y="230.3" width="16" height="97.7" rx="6" ry="6" fill="#6873ed" transform="rotate(345.0, 512, 512)" />
-    <rect x="504" y="191.5" width="16" height="136.5" rx="6" ry="6" fill="#7967f1" transform="rotate(352.5, 512, 512)" />
+    <rect x="504" y="162.8" width="16" height="165.2" rx="6" ry="6" fill="#0e7490" transform="rotate(0.0, 512, 512)" />
+    <rect x="504" y="148.7" width="16" height="179.3" rx="6" ry="6" fill="#2c797e" transform="rotate(7.5, 512, 512)" />
+    <rect x="504" y="147.7" width="16" height="180.3" rx="6" ry="6" fill="#497e6d" transform="rotate(15.0, 512, 512)" />
+    <rect x="504" y="153.3" width="16" height="174.7" rx="6" ry="6" fill="#66845d" transform="rotate(22.5, 512, 512)" />
+    <rect x="504" y="157.3" width="16" height="170.7" rx="6" ry="6" fill="#81894d" transform="rotate(30.0, 512, 512)" />
+    <rect x="504" y="153.5" width="16" height="174.5" rx="6" ry="6" fill="#9a8d3f" transform="rotate(37.5, 512, 512)" />
+    <rect x="504" y="140.6" width="16" height="187.4" rx="6" ry="6" fill="#b19131" transform="rotate(45.0, 512, 512)" />
+    <rect x="504" y="123.0" width="16" height="205.0" rx="6" ry="6" fill="#c59526" transform="rotate(52.5, 512, 512)" />
+    <rect x="504" y="109.0" width="16" height="219.0" rx="6" ry="6" fill="#d6981c" transform="rotate(60.0, 512, 512)" />
+    <rect x="504" y="107.1" width="16" height="220.9" rx="6" ry="6" fill="#e39a15" transform="rotate(67.5, 512, 512)" />
+    <rect x="504" y="122.7" width="16" height="205.3" rx="6" ry="6" fill="#ed9c0f" transform="rotate(75.0, 512, 512)" />
+    <rect x="504" y="155.3" width="16" height="172.7" rx="6" ry="6" fill="#f39d0c" transform="rotate(82.5, 512, 512)" />
+    <rect x="504" y="198.2" width="16" height="129.8" rx="6" ry="6" fill="#f59e0b" transform="rotate(90.0, 512, 512)" />
+    <rect x="504" y="241.1" width="16" height="86.9" rx="6" ry="6" fill="#f39d0c" transform="rotate(97.5, 512, 512)" />
+    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#ed9c0f" transform="rotate(105.0, 512, 512)" />
+    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#e39a15" transform="rotate(112.5, 512, 512)" />
+    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#d6981c" transform="rotate(120.0, 512, 512)" />
+    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#c59526" transform="rotate(127.5, 512, 512)" />
+    <rect x="504" y="255.8" width="16" height="72.2" rx="6" ry="6" fill="#b19131" transform="rotate(135.0, 512, 512)" />
+    <rect x="504" y="242.9" width="16" height="85.1" rx="6" ry="6" fill="#9a8d3f" transform="rotate(142.5, 512, 512)" />
+    <rect x="504" y="239.1" width="16" height="88.9" rx="6" ry="6" fill="#81894d" transform="rotate(150.0, 512, 512)" />
+    <rect x="504" y="243.1" width="16" height="84.9" rx="6" ry="6" fill="#66845d" transform="rotate(157.5, 512, 512)" />
+    <rect x="504" y="248.7" width="16" height="79.3" rx="6" ry="6" fill="#497e6d" transform="rotate(165.0, 512, 512)" />
+    <rect x="504" y="247.7" width="16" height="80.3" rx="6" ry="6" fill="#2c797e" transform="rotate(172.5, 512, 512)" />
+    <rect x="504" y="233.6" width="16" height="94.4" rx="6" ry="6" fill="#0e748f" transform="rotate(180.0, 512, 512)" />
+    <rect x="504" y="204.9" width="16" height="123.1" rx="6" ry="6" fill="#137d9d" transform="rotate(187.5, 512, 512)" />
+    <rect x="504" y="166.1" width="16" height="161.9" rx="6" ry="6" fill="#1886aa" transform="rotate(195.0, 512, 512)" />
+    <rect x="504" y="126.2" width="16" height="201.8" rx="6" ry="6" fill="#1e8fb7" transform="rotate(202.5, 512, 512)" />
+    <rect x="504" y="96.0" width="16" height="232.0" rx="6" ry="6" fill="#2398c4" transform="rotate(210.0, 512, 512)" />
+    <rect x="504" y="92.0" width="16" height="236.0" rx="6" ry="6" fill="#27a0cf" transform="rotate(217.5, 512, 512)" />
+    <rect x="504" y="92.0" width="16" height="236.0" rx="6" ry="6" fill="#2ba7d9" transform="rotate(225.0, 512, 512)" />
+    <rect x="504" y="113.8" width="16" height="214.2" rx="6" ry="6" fill="#2fade2" transform="rotate(232.5, 512, 512)" />
+    <rect x="504" y="144.4" width="16" height="183.6" rx="6" ry="6" fill="#32b3ea" transform="rotate(240.0, 512, 512)" />
+    <rect x="504" y="172.5" width="16" height="155.5" rx="6" ry="6" fill="#34b7f0" transform="rotate(247.5, 512, 512)" />
+    <rect x="504" y="191.1" width="16" height="136.9" rx="6" ry="6" fill="#36baf4" transform="rotate(255.0, 512, 512)" />
+    <rect x="504" y="198.4" width="16" height="129.6" rx="6" ry="6" fill="#37bcf7" transform="rotate(262.5, 512, 512)" />
+    <rect x="504" y="198.2" width="16" height="129.8" rx="6" ry="6" fill="#38bdf8" transform="rotate(270.0, 512, 512)" />
+    <rect x="504" y="198.0" width="16" height="130.0" rx="6" ry="6" fill="#37bcf7" transform="rotate(277.5, 512, 512)" />
+    <rect x="504" y="205.3" width="16" height="122.7" rx="6" ry="6" fill="#36baf4" transform="rotate(285.0, 512, 512)" />
+    <rect x="504" y="223.9" width="16" height="104.1" rx="6" ry="6" fill="#34b7f0" transform="rotate(292.5, 512, 512)" />
+    <rect x="504" y="252.0" width="16" height="76.0" rx="6" ry="6" fill="#32b3ea" transform="rotate(300.0, 512, 512)" />
+    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#2fade2" transform="rotate(307.5, 512, 512)" />
+    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#2ba7d9" transform="rotate(315.0, 512, 512)" />
+    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#27a0cf" transform="rotate(322.5, 512, 512)" />
+    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#2398c4" transform="rotate(330.0, 512, 512)" />
+    <rect x="504" y="269.0" width="16" height="59.0" rx="6" ry="6" fill="#1e8fb7" transform="rotate(337.5, 512, 512)" />
+    <rect x="504" y="230.3" width="16" height="97.7" rx="6" ry="6" fill="#1886aa" transform="rotate(345.0, 512, 512)" />
+    <rect x="504" y="191.5" width="16" height="136.5" rx="6" ry="6" fill="#137d9d" transform="rotate(352.5, 512, 512)" />
   </g>
-  <!-- Central Event Horizon -->
-  <circle cx="512" cy="512" r="190" fill="none" stroke="#8B5CF6" stroke-width="4" stroke-opacity="0.4" />
-  <circle cx="512" cy="512" r="184" fill="#030208" stroke="#06B6D4" stroke-width="4" stroke-opacity="0.85" />
-  <!-- Void Center Starlight -->
+  <!-- Event Horizon -->
+  <circle cx="512" cy="512" r="190" fill="none" stroke="#81A1C1" stroke-width="4" stroke-opacity="0.4" />
+  <circle cx="512" cy="512" r="184" fill="#040810" stroke="#38BDF8" stroke-width="4" stroke-opacity="0.9" />
+  <!-- Center Diamond -->
   <polygon points="512,460 522,502 564,512 522,522 512,564 502,522 460,512 502,502" fill="#E0F2FE" />
   <circle cx="512" cy="512" r="8" fill="#FFFFFF" />
 </svg>

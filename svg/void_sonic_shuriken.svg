@@ -3,7 +3,6 @@
   <rect x="0" y="0" width="1024" height="1024" fill="#070E1A" />
   <circle cx="512" cy="512" r="360" fill="none" stroke="#1E293B" stroke-width="2" />
   <circle cx="512" cy="512" r="280" fill="none" stroke="#0E7490" stroke-width="2" stroke-opacity="0.4" />
-  <!-- 4 Shuriken Sonic Blades -->
   <g transform="rotate(0, 512, 512)">
     <polygon points="512,512 512,172 452,372" fill="#38BDF8" />
     <polygon points="512,512 512,172 572,372" fill="#0284C7" />

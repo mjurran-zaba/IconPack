@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
   <!-- Integrated Background -->
-  <rect x="0" y="0" width="1024" height="1024" fill="#0D0A1A" />
-  <circle cx="512" cy="512" r="380" fill="none" stroke="#EC4899" stroke-width="2" stroke-opacity="0.25" />
+  <rect x="0" y="0" width="1024" height="1024" fill="#080F1D" />
+  <circle cx="512" cy="512" r="380" fill="none" stroke="#F59E0B" stroke-width="2" stroke-opacity="0.25" />
   <circle cx="512" cy="512" r="320" fill="none" stroke="#38BDF8" stroke-width="2" stroke-opacity="0.3" />
-  <!-- Cat Head Outline & Ears -->
-  <polygon points="320,440 240,240 440,340" fill="#1E1638" stroke="#EC4899" stroke-width="8" stroke-linejoin="round" />
-  <polygon points="320,410 265,275 405,345" fill="#EC4899" fill-opacity="0.4" />
-  <polygon points="704,440 784,240 584,340" fill="#1E1638" stroke="#EC4899" stroke-width="8" stroke-linejoin="round" />
-  <polygon points="704,410 759,275 619,345" fill="#EC4899" fill-opacity="0.4" />
-  <circle cx="512" cy="540" r="210" fill="#1A1333" stroke="#A855F7" stroke-width="6" />
-  <path d="M 280,510 A 240,240 0 0,1 744,510" fill="none" stroke="#38BDF8" stroke-width="20" stroke-linecap="round" />
-  <!-- Headphone Earcups -->
+  <!-- Ears (Cyan & Gold) -->
+  <polygon points="320,440 240,240 440,340" fill="#0F172A" stroke="#38BDF8" stroke-width="8" stroke-linejoin="round" />
+  <polygon points="320,410 265,275 405,345" fill="#38BDF8" fill-opacity="0.4" />
+  <polygon points="704,440 784,240 584,340" fill="#0F172A" stroke="#38BDF8" stroke-width="8" stroke-linejoin="round" />
+  <polygon points="704,410 759,275 619,345" fill="#38BDF8" fill-opacity="0.4" />
+  <circle cx="512" cy="540" r="210" fill="#131F37" stroke="#38BDF8" stroke-width="6" />
+  <!-- Headphones -->
+  <path d="M 280,510 A 240,240 0 0,1 744,510" fill="none" stroke="#F59E0B" stroke-width="20" stroke-linecap="round" />
   <rect x="230" y="440" width="70" height="140" rx="35" ry="35" fill="#0E7490" stroke="#38BDF8" stroke-width="8" />
-  <circle cx="265" cy="510" r="20" fill="#EC4899" />
+  <circle cx="265" cy="510" r="20" fill="#F59E0B" />
   <rect x="724" y="440" width="70" height="140" rx="35" ry="35" fill="#0E7490" stroke="#38BDF8" stroke-width="8" />
-  <circle cx="759" cy="510" r="20" fill="#EC4899" />
-  <!-- Left Eye: Joy arc -->
+  <circle cx="759" cy="510" r="20" fill="#F59E0B" />
+  <!-- Eyes -->
   <path d="M 400,530 Q 435,490 470,530" fill="none" stroke="#38BDF8" stroke-width="10" stroke-linecap="round" />
-  <polygon points="590,490 598,515 625,520 600,532 602,558 582,540 558,550 570,528 555,508 580,512" fill="#EC4899" />
+  <polygon points="590,490 598,515 625,520 600,532 602,558 582,540 558,550 570,528 555,508 580,512" fill="#F59E0B" />
   <circle cx="590" cy="525" r="5" fill="#FFFFFF" />
-  <polygon points="506,562 518,562 512,572" fill="#EC4899" />
+  <polygon points="506,562 518,562 512,572" fill="#F59E0B" />
   <path d="M 482,580 Q 497,600 512,582 Q 527,600 542,580" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" />
-  <ellipse cx="380" cy="570" rx="28" ry="14" fill="#EC4899" fill-opacity="0.6" />
-  <ellipse cx="644" cy="570" rx="28" ry="14" fill="#EC4899" fill-opacity="0.6" />
+  <ellipse cx="380" cy="570" rx="28" ry="14" fill="#38BDF8" fill-opacity="0.4" />
+  <ellipse cx="644" cy="570" rx="28" ry="14" fill="#38BDF8" fill-opacity="0.4" />
   <rect x="472" y="418.0" width="8" height="24" rx="4" fill="#38BDF8" />
   <rect x="492" y="407.5" width="8" height="45" rx="4" fill="#38BDF8" />
   <rect x="512" y="397.5" width="8" height="65" rx="4" fill="#38BDF8" />
