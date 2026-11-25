@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Integrated Background -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#0C0D11" />
+  <!-- Vinyl Microgrooves -->
+  <circle cx="471" cy="491" r="120" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="128" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="136" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="144" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="152" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="160" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="168" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="176" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="184" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="192" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="200" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="208" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="216" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="224" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="232" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="240" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="248" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="256" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="264" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="272" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="280" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="288" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="296" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="304" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="312" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="320" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="328" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="336" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="344" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="352" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="360" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="368" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="376" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="384" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="392" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="400" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="408" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="416" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="424" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="432" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="440" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <circle cx="471" cy="491" r="448" fill="none" stroke="#262A35" stroke-width="1.2" stroke-opacity="0.35" />
+  <!-- Solar Corona Arc (Amber/Coral/Violet) -->
+  <path d="M 772,271 A 340,340 0 0,1 291,752" fill="none" stroke="#F59E0B" stroke-width="36" stroke-opacity="0.5" stroke-linecap="round" />
+  <path d="M 772,271 A 340,340 0 0,1 291,752" fill="none" stroke="#F43F5E" stroke-width="18" stroke-opacity="0.8" stroke-linecap="round" />
+  <path d="M 772,271 A 340,340 0 0,1 291,752" fill="none" stroke="#FEF3C7" stroke-width="6" stroke-opacity="0.95" stroke-linecap="round" />
+  <!-- Occluding Void Disc -->
+  <circle cx="471" cy="491" r="327" fill="#0A0B0F" />
+  <circle cx="471" cy="491" r="41" fill="#161820" stroke="#38BDF8" stroke-width="2" stroke-opacity="0.6" />
+  <!-- Minimalist Stylus Needle Beam V -->
+  <line x1="328" y1="164" x2="594" y2="860" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" />
+  <line x1="594" y1="860" x2="860" y2="286" stroke="#F59E0B" stroke-width="8" stroke-linecap="round" />
+  <circle cx="594" cy="860" r="28" fill="#38BDF8" fill-opacity="0.25" />
+  <circle cx="594" cy="860" r="14" fill="#FFFFFF" />
+</svg>

@@ -1,5 +1,55 @@
 [
   {
+    "Id": "void_singularity",
+    "Name": "Sound Singularity",
+    "Author": "mjurran-zaba",
+    "Source": "void_singularity.svg",
+    "Link": "https://github.com/mjurran-zaba/VoidTune",
+    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#FF080511"
+  },
+  {
+    "Id": "void_monolith_v",
+    "Name": "Neon Monolith V",
+    "Author": "mjurran-zaba",
+    "Source": "void_monolith_v.svg",
+    "Link": "https://github.com/mjurran-zaba/VoidTune",
+    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#FF070A12"
+  },
+  {
+    "Id": "void_sound_eclipse",
+    "Name": "Sound Eclipse",
+    "Author": "mjurran-zaba",
+    "Source": "void_sound_eclipse.svg",
+    "Link": "https://github.com/mjurran-zaba/VoidTune",
+    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#FF0C0D11"
+  },
+  {
+    "Id": "void_equalizer_v",
+    "Name": "Equalizer V-Pulse",
+    "Author": "mjurran-zaba",
+    "Source": "void_equalizer_v.svg",
+    "Link": "https://github.com/mjurran-zaba/VoidTune",
+    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#FF08090E"
+  },
+  {
+    "Id": "void_nordic_prism",
+    "Name": "Nordic Hex Prism",
+    "Author": "mjurran-zaba",
+    "Source": "void_nordic_prism.svg",
+    "Link": "https://github.com/mjurran-zaba/VoidTune",
+    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#FF0A0E17"
+  },
+  {
     "Name": "Sakura",
     "Author": "morieeattonkatsu",
     "GitHubAuthorUrl": "https://github.com/rukamori",

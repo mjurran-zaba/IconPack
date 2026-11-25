@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Integrated Background -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#0A0E17" />
+  <!-- Hexagon Facets -->
+  <polygon points="848.9,317.5 848.9,706.5 512.0,512.0" fill="#1E293B" />
+  <polygon points="848.9,706.5 512.0,901.0 512.0,512.0" fill="#38BDF8" />
+  <polygon points="512.0,901.0 175.1,706.5 512.0,512.0" fill="#0E7490" />
+  <polygon points="175.1,706.5 175.1,317.5 512.0,512.0" fill="#6366F1" />
+  <polygon points="175.1,317.5 512.0,123.0 512.0,512.0" fill="#818CF8" />
+  <polygon points="512.0,123.0 848.9,317.5 512.0,512.0" fill="#475569" />
+  <polygon points="317.5,336.9 434.2,336.9 512.0,648.1 589.8,336.9 706.5,336.9 512.0,803.8" fill="#0A0E17" />
+  <line x1="317.5" y1="336.9" x2="512.0" y2="803.8" stroke="#E0F2FE" stroke-width="8" stroke-linecap="round" />
+  <line x1="512.0" y1="803.8" x2="706.5" y2="336.9" stroke="#E0F2FE" stroke-width="8" stroke-linecap="round" />
+  <line x1="434.2" y1="336.9" x2="512.0" y2="648.1" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" />
+  <line x1="512.0" y1="648.1" x2="589.8" y2="336.9" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" />
+  <circle cx="512.0" cy="473.1" r="8" fill="#FFFFFF" />
+</svg>
