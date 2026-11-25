@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Background -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#070C16" />
+  <!-- Energy Halo Rings -->
+  <circle cx="512" cy="512" r="380" fill="none" stroke="#1E293B" stroke-width="2" stroke-opacity="0.4" />
+  <circle cx="512" cy="512" r="280" fill="none" stroke="#0E7490" stroke-width="2" stroke-dasharray="12,12" stroke-opacity="0.5" />
+  <!-- Left Wing Feathers (Cyan / Teal) -->
+  <polygon points="512,580 180,300 240,460" fill="#0284C7" />
+  <polygon points="512,620 220,440 290,560" fill="#0E7490" />
+  <polygon points="512,660 270,540 340,640" fill="#155E75" />
+  <polygon points="512,540 160,240 320,380" fill="#38BDF8" />
+  <!-- Right Wing Feathers (Amber Gold) -->
+  <polygon points="512,580 844,300 784,460" fill="#D97706" />
+  <polygon points="512,620 804,440 734,560" fill="#B45309" />
+  <polygon points="512,660 754,540 684,640" fill="#92400E" />
+  <polygon points="512,540 864,240 704,380" fill="#F59E0B" />
+  <!-- Central Spear Blade / Apex Core -->
+  <polygon points="512,200 472,680 512,820 552,680" fill="#0F172A" stroke="#FFFFFF" stroke-width="4" />
+  <line x1="512" y1="200" x2="512" y2="820" stroke="#38BDF8" stroke-width="4" />
+  <polygon points="512,280 492,340 512,400 532,340" fill="#FBBF24" />
+</svg>

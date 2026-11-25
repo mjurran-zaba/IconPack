@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Background -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#060A12" />
+  <!-- Orbital Gyro Rings -->
+  <ellipse cx="512" cy="512" rx="360" ry="140" fill="none" stroke="#1E293B" stroke-width="3" stroke-opacity="0.5" transform="rotate(-30 512 512)" />
+  <ellipse cx="512" cy="512" rx="360" ry="140" fill="none" stroke="#0284C7" stroke-width="5" stroke-opacity="0.6" stroke-dasharray="24,18" transform="rotate(30 512 512)" />
+  <ellipse cx="512" cy="512" rx="360" ry="140" fill="none" stroke="#F59E0B" stroke-width="4" stroke-opacity="0.7" stroke-dasharray="40,24" transform="rotate(90 512 512)" />
+  <!-- Isometric Quantum Cube Core -->
+  <!-- Top Face (Polar Cyan) -->
+  <polygon points="512,300 660,380 512,460 364,380" fill="#38BDF8" stroke="#E0F2FE" stroke-width="3" />
+  <!-- Left Face (Deep Arctic Teal) -->
+  <polygon points="364,380 512,460 512,640 364,560" fill="#0369A1" stroke="#0284C7" stroke-width="3" />
+  <!-- Right Face (Amber Gold) -->
+  <polygon points="512,460 660,380 660,560 512,640" fill="#D97706" stroke="#F59E0B" stroke-width="3" />
+  <!-- Inner Glowing Reactor Orb -->
+  <circle cx="512" cy="460" r="46" fill="#FBBF24" stroke="#FFFFFF" stroke-width="5" />
+  <circle cx="512" cy="460" r="22" fill="#FFFFFF" />
+  <!-- Resonance Rays -->
+  <line x1="512" y1="180" x2="512" y2="280" stroke="#38BDF8" stroke-width="6" stroke-linecap="round" />
+  <line x1="512" y1="660" x2="512" y2="760" stroke="#F59E0B" stroke-width="6" stroke-linecap="round" />
+  <line x1="260" y1="460" x2="340" y2="460" stroke="#38BDF8" stroke-width="6" stroke-linecap="round" />
+  <line x1="684" y1="460" x2="764" y2="460" stroke="#F59E0B" stroke-width="6" stroke-linecap="round" />
+</svg>

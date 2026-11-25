@@ -1,15 +1,5 @@
 [
   {
-    "Id": "void_singularity",
-    "Name": "Sound Singularity",
-    "Author": "mjurran-zaba",
-    "Source": "void_singularity.svg",
-    "Link": "https://github.com/mjurran-zaba/VoidTune",
-    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
-    "BackgroundMode": "integrated",
-    "BackgroundColor": "#FF060C16"
-  },
-  {
     "Id": "void_monolith_v",
     "Name": "Neon Monolith V",
     "Author": "mjurran-zaba",
@@ -18,6 +8,16 @@
     "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
     "BackgroundMode": "integrated",
     "BackgroundColor": "#FF070E1A"
+  },
+  {
+    "Id": "void_singularity",
+    "Name": "Sound Singularity",
+    "Author": "mjurran-zaba",
+    "Source": "void_singularity.svg",
+    "Link": "https://github.com/mjurran-zaba/VoidTune",
+    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#FF060C16"
   },
   {
     "Id": "void_sound_eclipse",
@@ -108,5 +108,45 @@
     "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
     "BackgroundMode": "integrated",
     "BackgroundColor": "#FF080E1B"
+  },
+  {
+    "Id": "void_cyber_cassette",
+    "Name": "Cyber Obsidian Cassette",
+    "Author": "mjurran-zaba",
+    "Source": "void_cyber_cassette.svg",
+    "Link": "https://github.com/mjurran-zaba/VoidTune",
+    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#FF060A14"
+  },
+  {
+    "Id": "void_valkyrie_wings",
+    "Name": "Valkyrie Sound Wings",
+    "Author": "mjurran-zaba",
+    "Source": "void_valkyrie_wings.svg",
+    "Link": "https://github.com/mjurran-zaba/VoidTune",
+    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#FF070C16"
+  },
+  {
+    "Id": "void_aurora_pulse",
+    "Name": "Nordic Aurora Wave",
+    "Author": "mjurran-zaba",
+    "Source": "void_aurora_pulse.svg",
+    "Link": "https://github.com/mjurran-zaba/VoidTune",
+    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#FF050B14"
+  },
+  {
+    "Id": "void_quantum_core",
+    "Name": "Quantum Resonance Core",
+    "Author": "mjurran-zaba",
+    "Source": "void_quantum_core.svg",
+    "Link": "https://github.com/mjurran-zaba/VoidTune",
+    "GitHubAuthorUrl": "https://github.com/mjurran-zaba",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#FF060A12"
   }
 ]

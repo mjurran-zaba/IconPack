@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Background -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#050B14" />
+  <!-- Starlight dots -->
+  <circle cx="200" cy="220" r="3" fill="#FFFFFF" fill-opacity="0.8" />
+  <circle cx="820" cy="180" r="2.5" fill="#FFFFFF" fill-opacity="0.7" />
+  <circle cx="340" cy="160" r="4" fill="#FBBF24" fill-opacity="0.9" />
+  <circle cx="700" cy="260" r="3" fill="#38BDF8" fill-opacity="0.8" />
+  <circle cx="160" cy="400" r="2" fill="#FFFFFF" fill-opacity="0.5" />
+  <circle cx="860" cy="420" r="2.5" fill="#FFFFFF" fill-opacity="0.6" />
+  <!-- Aurora Wave Bands (Cyan to Emerald Green to Amber) -->
+  <path d="M 120,640 Q 320,280 512,520 T 904,400" fill="none" stroke="#10B981" stroke-width="38" stroke-opacity="0.4" stroke-linecap="round" />
+  <path d="M 120,640 Q 320,280 512,520 T 904,400" fill="none" stroke="#38BDF8" stroke-width="20" stroke-opacity="0.75" stroke-linecap="round" />
+  <path d="M 120,640 Q 320,280 512,520 T 904,400" fill="none" stroke="#E0F2FE" stroke-width="6" stroke-opacity="0.95" stroke-linecap="round" />
+  <!-- Lower Counter-Wave -->
+  <path d="M 120,740 Q 360,540 540,680 T 904,600" fill="none" stroke="#F59E0B" stroke-width="28" stroke-opacity="0.35" stroke-linecap="round" />
+  <path d="M 120,740 Q 360,540 540,680 T 904,600" fill="none" stroke="#FBBF24" stroke-width="12" stroke-opacity="0.7" stroke-linecap="round" />
+  <!-- Central Nordic Mountain Silhouette -->
+  <polygon points="120,840 380,560 512,680 660,510 904,840" fill="#090E17" stroke="#1E293B" stroke-width="4" />
+  <!-- Mountain Ridge Light Peak -->
+  <polyline points="380,560 512,680 660,510" fill="none" stroke="#38BDF8" stroke-width="5" stroke-linecap="round" />
+  <circle cx="660" cy="510" r="8" fill="#FBBF24" />
+</svg>
